@@ -1,0 +1,27 @@
+/* Logo */
+[data-testid="stSidebar"] {
+    background-image: url(https://github.com/ArtisticControl/Platform/blob/7cd36c651fd7abd9efdd7c88a3c79b1966e149bd/side_icon.png?raw=true);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: top 2vh center;
+    padding-top: 12vh;
+}
+
+/* Sidebar Menu Height */
+
+[data-testid='stSidebarNav'] > ul {
+    padding-top: 5vh;
+    min-height: 65vh;
+}
+
+body {
+    margin: 0px;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: 400;
+    line-height: 1.6;
+    color: rgb(49, 51, 63);
+    background-color: rgb(255, 255, 255);
+    text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgb(0, 0, 0);
+    -webkit-font-smoothing: auto;
+}
