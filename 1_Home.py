@@ -18,7 +18,7 @@ st.sidebar.image("https://github.com/ArtisticControl/Platform/blob/main/symeco_l
 
 #End of Sidebar Configuration ------
 
-st.title("Sextortion in Public Service Delivery and the Role of GovTech - This is a Mock-Up Still")
+st.title("Sextortion in Public Service Delivery and the Role of GovTech (Mock-Up)")
 
 st.divider()
 
