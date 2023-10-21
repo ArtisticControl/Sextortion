@@ -2,6 +2,5 @@ streamlit
 plotly
 folium
 pandas
-plost
 smtplib
 MIMEText
